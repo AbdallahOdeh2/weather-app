@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/weather.png" alt="Weather App Banner" width="800"/>
+  <img src="![Forecast Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather-3.png)
+" alt="Weather App Banner" width="800"/>
 </p>
 
 # 🌦️ 3D Weather App

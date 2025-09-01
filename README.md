@@ -1,12 +1,49 @@
-# React + Vite
+<p align="center">
+  <img src="assets/weather.png" alt="Weather App Banner" width="800"/>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌦️ 3D Weather App
 
-Currently, two official plugins are available:
+A modern, interactive **Weather Application** built with **React + Vite**, featuring **3D animated icons** created using **Three.js** and **Spline**.  
+The app fetches **5-day forecasts** from a Weather API and displays weather conditions in an engaging, visual way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 🔍 Search weather by **city name**
+- 📅 **5-day weather forecast** with temperature & conditions
+- 🎨 **3D animated weather icons** (sun, clouds, rain, snow, thunder, etc.)
+- ⚡ Built with **React + Vite** for fast performance
+- 🔄 Real-time data from **Weather API**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, TailwindCSS  
+- **3D/Animations:** Three.js, Spline  
+- **API:** [OpenWeather API](https://openweathermap.org/) (or whichever service you used)  
+- **Deployment:** Netlify / Vercel / GitHub Pages  
+
+---
+
+## 🚀 Live Demo
+👉 [View Live App](https://appweather159.netlify.app/)  
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage Screenshot](assets/weather-2.png)
+
+### Forecast Example
+![Forecast Screenshot](assets/weather-3.png)
+![Forecast Screenshot](assets/weather-4.png)
+
+
+---
+
+## ⚙️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather-app.git

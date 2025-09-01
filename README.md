@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Forecast Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather-3.png)
+  <img src="![Forecast Screenshot](https://github.com/AbdallahOdeh2/weather-app/blob/main/public/assets/weather.png)
 " alt="Weather App Banner" width="800"/>
 </p>
 

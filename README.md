@@ -34,11 +34,11 @@ The app fetches **5-day forecasts** from a Weather API and displays weather cond
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](assets/weather-2.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather2.png)
 
 ### Forecast Example
-![Forecast Screenshot](assets/weather-3.png)
-![Forecast Screenshot](assets/weather-4.png)
+![Forecast Screenshot]((https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather3.png))
+![Forecast Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather4.png)
 
 
 ---

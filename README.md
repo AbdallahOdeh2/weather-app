@@ -21,7 +21,7 @@ The app fetches **5-day forecasts** from a Weather API and displays weather cond
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite, TailwindCSS  
 - **3D/Animations:** Three.js, Spline  
-- **API:** [OpenWeather API](https://openweathermap.org/) (or whichever service you used)  
+- **API:** [OpenWeather API](https://openweathermap.org/)  
 - **Deployment:** Netlify / Vercel / GitHub Pages  
 
 ---
@@ -34,16 +34,22 @@ The app fetches **5-day forecasts** from a Weather API and displays weather cond
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather2.png" alt="Homepage Screenshot" width="700"/>
+</p>
 
 ### Forecast Example
-![Forecast Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather3.png)
-![Forecast Screenshot](https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather4.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather3.png" alt="Forecast Screenshot" width="700"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdallahOdeh2/weather-app/main/public/assets/weather4.png" alt="Forecast Screenshot" width="700"/>
+</p>
 
 ---
 
 ## ⚙️ Installation & Setup
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
+```bash
+git clone https://github.com/AbdallahOdeh2/weather-app.git
